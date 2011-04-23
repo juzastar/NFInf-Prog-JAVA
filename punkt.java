@@ -30,9 +30,9 @@ public class punkt {
     public static void main(String[] args) {
        punkt p = new punkt();
         p.setX(10);
-        p.setY(42);
+        p.setY(32);
         System.out.println(p.getX() + p.getY());
-       
+       //Ausgabe: 42
         
     }
 }
