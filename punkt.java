@@ -32,7 +32,7 @@ public class punkt {
         p.setX(10);
         p.setY(42);
         System.out.println(p.getX() + p.getY());
-       
+       //this is my new environment text
         
     }
 }
