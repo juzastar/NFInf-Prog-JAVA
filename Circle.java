@@ -27,5 +27,5 @@ public class Circle {
 	}
 	
 }
-
-Circle myCircle = new Circle (2.0 ,2.0 1.0);
+ 
+// Circle myCircle = new Circle (2.0 ,2.0 1.0);
