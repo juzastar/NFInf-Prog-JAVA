@@ -14,6 +14,7 @@ public class Circle {
 	protected double x, y;
 	protected double r;
 	
+	// Der Code con Herrn Simon sieht hier ein this in den Paramtern vor, dies ist jedoch syntaktisch nicht java konform!
 	public  Circle (double x, double y, double r){
 		this.x = x;
 		this.y = y;
@@ -26,3 +27,5 @@ public class Circle {
 	}
 	
 }
+
+Circle myCircle = new Circle (2.0 ,2.0 1.0);
