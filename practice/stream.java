@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-/* This document is intellectual content from Mr. F. Simon CAU Kiel */
+/* This document is intellectual content of Mr. F. Simon CAU Kiel */
 
 public class stream {
 	public static void main(String[] args){
